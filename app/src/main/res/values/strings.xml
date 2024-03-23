@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiApp</string>
+    <string name="button_1_text">Botón 1</string>
+    <string name="button_2_text">Botón 2</string>
+    <string name="button_3_text">Botón 3</string>
+    <string name="contained_button_text">Botón Contenido</string>
+    <string name="custom_button_text">Botón Personalizado</string>
+    <string name="hola_mundo_button_text">¡Hola Mundo!</string>
+    <string name="text_button_text">Botón de Texto</string>
+</resources>
